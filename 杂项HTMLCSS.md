@@ -1,6 +1,8 @@
 # Things arised in the production environment --- HTML?CSS?
 
-## [Hide sibling div on hover with css](https://stackoverflow.com/questions/38084539/hide-sibling-div-on-hover-with-css-only)
+## Hide sibling div on hover with css
+
+[More Info](https://stackoverflow.com/questions/38084539/hide-sibling-div-on-hover-with-css-only)
 
 ## How to make overflow not exceed parents element's padding
 
@@ -15,13 +17,14 @@ Solution:
 - Wrap it with another element and make that element `overflow: hidden`
 - The original parent element padding will be apply to the wrap element, and - the inner element won't exceed the wrap element
 
-## [flex-basis flex-shrink flex-grow](https://www.youtube.com/embed/LVLmX-fx09w)
+## flex-basis flex-shrink flex-grow
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LVLmX-fx09w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[YouTube](https://www.youtube.com/embed/LVLmX-fx09w)
 
-## [Capitalize the First Letter of Each Word](https://www.freecodecamp.org/news/how-to-capitalize-words-in-javascript/)
+## Capitalize the First Letter of Each Word
 
-<iframe
-  src="https://www.freecodecamp.org/news/how-to-capitalize-words-in-javascript/"
-  style="width:100%; height:300px;"
-></iframe>
+[More Info](https://www.freecodecamp.org/news/how-to-capitalize-words-in-javascript/)
+
+## ::after ::before
+
+[CSS tricks](https://css-tricks.com/almanac/selectors/a/after-and-before/)
