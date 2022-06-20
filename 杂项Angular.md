@@ -49,16 +49,16 @@ preventInvalidInput(event: KeyboardEvent) {
 
 [StackBlitz](https://stackblitz.com/edit/angular-flex-animate-firefox?file=src%2Fapp%2Fapp.component.ts)
 
-### Sharing data between angular components four methods
+## Sharing data between angular components four methods
 
 [More Info](https://fireship.io/lessons/sharing-data-between-angular-components-four-methods/)
 
-### Sanitization in angular
+## Sanitization in angular
 
 [Bypass pipe](https://medium.com/@swarnakishore/angular-safe-pipe-implementation-to-bypass-domsanitizer-stripping-out-content-c1bf0f1cc36b)
 [Angular doc](https://angular.io/api/platform-browser/DomSanitizer)
 
-### Linkify link text to anchor tag
+## Linkify link text to anchor tag
 
 ```ts
 let cursor = 0;
