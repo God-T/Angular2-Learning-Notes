@@ -2,7 +2,7 @@
 
 ## Hide sibling div on hover with css
 
-[More Info](https://stackoverflow.com/questions/38084539/hide-sibling-div-on-hover-with-css-only)
+[Stack Overflow](https://stackoverflow.com/questions/38084539/hide-sibling-div-on-hover-with-css-only)
 
 ## How to make overflow not exceed parents element's padding
 
@@ -17,7 +17,7 @@ Solution:
 - Wrap it with another element and make that element `overflow: hidden`
 - The original parent element padding will be apply to the wrap element, and - the inner element won't exceed the wrap element
 
-## flex-basis flex-shrink flex-grow
+## Flex-basis Flex-shrink Flex-grow
 
 [YouTube](https://www.youtube.com/embed/LVLmX-fx09w)
 
