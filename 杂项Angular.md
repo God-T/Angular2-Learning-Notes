@@ -187,6 +187,7 @@ app.directive('tooltipFollowCursor', function () {
 
 
 ## Image path in Angular
+No need relative path, just use `assets/...`
 ```html
 <img src="assets/img.jpg" alt="">
 ```
