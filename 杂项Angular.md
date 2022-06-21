@@ -183,6 +183,6 @@ app.directive('tooltipFollowCursor', function () {
 
 ## Flex-layout responsive API
 
-[Github]([https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html](https://github.com/angular/flex-layout/blob/master/docs/documentation/Responsive-API.md))
+[Github](https://github.com/angular/flex-layout/blob/master/docs/documentation/Responsive-API.md)
 
 
