@@ -186,3 +186,12 @@ app.directive('tooltipFollowCursor', function () {
 [Github](https://github.com/angular/flex-layout/blob/master/docs/documentation/Responsive-API.md)
 
 
+## Image path in Angular
+```html
+<img src="assets/img.jpg" alt="">
+```
+[More Info](https://mdbootstrap.com/support/angular/images-not-loading-from-assets-folder-in-angular/#:~:text=You're%20using%20the%20wrong,.%2F..%2Fassets.)
+
+
+
+
