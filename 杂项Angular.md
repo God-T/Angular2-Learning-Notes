@@ -180,3 +180,9 @@ app.directive('tooltipFollowCursor', function () {
 ## Use renderer2 for class binding
 
 [StackBlitz](https://stackblitz.com/edit/angular-2qtml4?file=src%2Fapp%2Fapp.component.ts)
+
+## Flex-layout responsive API
+
+[Github]([https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html](https://github.com/angular/flex-layout/blob/master/docs/documentation/Responsive-API.md))
+
+
