@@ -28,3 +28,22 @@ Solution:
 ## ::after ::before
 
 [CSS tricks](https://css-tricks.com/almanac/selectors/a/after-and-before/)
+
+## Absolute Horizontal And Vertical Centering In CSS
+
+```scss
+.Absolute-Center {
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+```
+
+[More Info](https://www.smashingmagazine.com/2013/08/absolute-horizontal-vertical-centering-css/)
+
+## CSS filter generator to convert from black to target hex color
+
+[More Info](https://codepen.io/sosuke/pen/Pjoqqp)
