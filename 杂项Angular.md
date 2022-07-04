@@ -2,7 +2,7 @@
 
 [Get ClipboardEvent paste value of input field](#put-id-here)
 
-[override css in `<mat-menu>`](override-css-in-\`<mat-menu>\`) 
+[override css in `<mat-menu>`](override-css-in-mat-menu>) 
 
 ## Get ClipboardEvent paste value of input field 
 
@@ -92,7 +92,7 @@ return substrings.length === 0 ? content : substrings.join('');
 [Attribute selector \*](https://medium.com/javascript-everyday/when-to-use-an-attribute-selector-for-angular-components-7e788ba1bfe7)
 [Selector as a Class](https://www.pluralsight.com/guides/understanding-the-purpose-and-use-of-the-selector-in-angular)
 
-## Update Angular CLI in existing project {#put-id-here}
+## Update Angular CLI in existing project
 
 [Angular update guide](https://update.angular.io/)
 
