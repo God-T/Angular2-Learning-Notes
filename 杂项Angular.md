@@ -1,8 +1,54 @@
 # Things arised in the production environment --- Angular?
 
-[Get ClipboardEvent paste value of input field](#put-id-here)
+- [Get ClipboardEvent paste value of input field](#Get-ClipboardEvent-paste-value-of-input-field)
 
-[override css in `<mat-menu>`](#override-css-in-mat-menu) 
+- [From FormGroup get Inner FormControl](#From-FormGroup-get-Inner-FormControl)
+
+- [Prevent +,-,e in number type input](#Prevent--e-in-number-type-input)
+
+- [Angular animation](#Angular-animation)
+
+- [Dropdown like](#Dropdown-like)
+
+- [Delete and auto reset alignment](#Delete-and-auto-reset-alignment)
+
+- [Sharing data between angular components four methods](#Sharing-data-between-angular-components-four-methods)
+
+- [Sanitization in angular](#Sanitization-in-angular)
+
+- [Linkify link text to anchor tag](#Linkify-link-text-to-anchor-tag)
+
+- [Set class name conditionally](#Set-class-name-conditionally)
+
+- [Angular html divider](#Angular-html-divider)
+
+- [Attribute/class selector component](#Attributeclass-selector-component)
+
+- [Update Angular CLI in existing project](#Update-Angular-CLI-in-existing-project)
+
+- [override css in `<mat-menu>`](#override-css-in-mat-menu)
+
+- [Template accessibility of `@ViewChild` and `@ContentChild`](#Template-accessibility-of-ViewChild-and-ContentChild)
+
+- [Angular Lifecycle Hooks](#Angular-Lifecycle-Hooks)
+
+- [`MediaObserver`](#MediaObserver)
+
+- [`ExpressionChangedAfterItHasBeenCheckedError`](#ExpressionChangedAfterItHasBeenCheckedError)
+
+- [2-way Data Binding for customized component](#2-way-Data-Binding-for-customized-component)
+
+- [Use localStorage in Angular](#Use-localStorage-in-Angular)
+
+- [Custom tooltip follow cursor](#Custom-tooltip-follow-cursor)
+
+- [Use renderer2 for class binding](#Use-renderer2-for-class-binding)
+
+- [Flex-layout responsive API](#Flex-layout-responsive-API)
+
+- [Image path in Angular](#Image-path-in-Angular)
+
+- [`getElementsByClassName` and `querySelectorAll`](#getElementsByClassName-and-querySelectorAll)
 
 ## Get ClipboardEvent paste value of input field 
 
