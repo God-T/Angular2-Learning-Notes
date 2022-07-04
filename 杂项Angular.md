@@ -194,3 +194,11 @@ No need relative path, just use `assets/...`
 ```
 
 [More Info](https://mdbootstrap.com/support/angular/images-not-loading-from-assets-folder-in-angular/#:~:text=You're%20using%20the%20wrong,.%2F..%2Fassets.)
+
+## `getElementsByClassName` and `querySelectorAll`
+
+`getElementsByClassName` returns live collection (HTMLcollection)
+
+`querySelectorAll` returns static collection (NodeList)
+
+[More Info](https://stackoverflow.com/questions/14377590/queryselector-and-queryselectorall-vs-getelementsbyclassname-and-getelementbyid/39213298#39213298)
