@@ -252,3 +252,11 @@ No need relative path, just use `assets/...`
 `querySelectorAll` returns static collection (NodeList)
 
 [More Info](https://stackoverflow.com/questions/14377590/queryselector-and-queryselectorall-vs-getelementsbyclassname-and-getelementbyid/39213298#39213298)
+
+
+## Using setter with @Input
+
+The setter will NOT be triggered by mutations to values which are passed by reference (i.e. pushing to an array, mutating an object, etc.). You would need to replace the whole value being passed as an Input for the setter to trigger again. – 
+Nickofthyme
+
+[More Info](https://stackoverflow.com/a/36653734)
