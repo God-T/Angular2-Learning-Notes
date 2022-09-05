@@ -47,3 +47,17 @@ Solution:
 ## CSS filter generator to convert from black to target hex color
 
 [More Info](https://codepen.io/sosuke/pen/Pjoqqp)
+
+## Fix Issue in chrome mobile, address bar will push page down when 100vh height
+
+[More Info](https://stackoverflow.com/a/59020698)
+
+## How to fix a gap on right side of a mobile website
+
+[How to fix](https://oxygen4fun.supadezign.com/tips/how-to-fix-the-gap-problem-on-mobile-view/)
+
+## How disable the blue boundary box when a touch occurs on chrome mobile
+
+[Stack Overflow](https://stackoverflow.com/a/65508664)
+
+
