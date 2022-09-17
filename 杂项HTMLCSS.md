@@ -60,4 +60,7 @@ Solution:
 
 [Stack Overflow](https://stackoverflow.com/a/65508664)
 
+## CSS fix for 100vh in mobile WebKit
+
+[More Info](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/)
 
